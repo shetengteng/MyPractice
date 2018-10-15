@@ -12,12 +12,12 @@
 
 ### IntelliJ IDEA ###
 .idea
+.mvn
 *.iws
 *.iml
 *.ipr
-.mvn
-mvnw
 *.iml
+mvnw
 mvnw.cmd
 
 ### NetBeans ###
